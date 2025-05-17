@@ -22,7 +22,7 @@ def winner_bidder():
                 if bid_amount>highest_bid:
                     highest_bid=bid_amount
                     winner=bidder
-            print(f"the highest bidder is {winner} with amount{highest_bid}")       
+            print(f"the highest bidder is {winner} with amount {highest_bid}")       
        
 
         

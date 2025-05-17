@@ -19,7 +19,7 @@ def love_calculator(name1,name2):
     score=int(str(first)+str(second))
     
     print(f"love score is {score}")
-love_calculator("rahul","leila")
+love_calculator("meenakshi","samyra")
        
 	
 	
